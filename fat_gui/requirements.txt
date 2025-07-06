@@ -1,0 +1,5 @@
+необходимые библиотеки, устанавливать через pip install
+requests
+Pillow
+tkinter
+reportlab
